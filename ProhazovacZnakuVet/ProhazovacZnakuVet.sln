@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProhazovacZnakuVet", "ProhazovacZnakuVet.csproj", "{CEA98C89-6054-4FDB-90C0-675907BEADDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA98C89-6054-4FDB-90C0-675907BEADDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA98C89-6054-4FDB-90C0-675907BEADDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA98C89-6054-4FDB-90C0-675907BEADDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA98C89-6054-4FDB-90C0-675907BEADDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF2537B-C856-4D26-A61B-5CDC6751F3BD}
+	EndGlobalSection
+EndGlobal

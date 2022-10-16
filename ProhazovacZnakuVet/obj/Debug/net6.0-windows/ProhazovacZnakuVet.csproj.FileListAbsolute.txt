@@ -1,0 +1,17 @@
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\bin\Debug\net6.0-windows\ProhazovacZnakuVet.exe
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\bin\Debug\net6.0-windows\ProhazovacZnakuVet.deps.json
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\bin\Debug\net6.0-windows\ProhazovacZnakuVet.runtimeconfig.json
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\bin\Debug\net6.0-windows\ProhazovacZnakuVet.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\bin\Debug\net6.0-windows\ProhazovacZnakuVet.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.csproj.AssemblyReference.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.Form1.resources
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.csproj.GenerateResource.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.AssemblyInfoInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.AssemblyInfo.cs
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\refint\ProhazovacZnakuVet.dll
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.pdb
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ProhazovacZnakuVet.genruntimeconfig.cache
+C:\Users\Jakub\OneDrive\Dokumenty\Moje složka\Programy\Csharp\ProhazovacZnakuVet\obj\Debug\net6.0-windows\ref\ProhazovacZnakuVet.dll
